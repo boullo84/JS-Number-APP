@@ -1,4 +1,4 @@
-let numberArray = ['ZEERO' , 'KOOW' , 'LABO' , 'SADEEX' , 'AFAAR' , 'SHAAN' , 'LIIX' , 'TODOBAA' , 'SIDEED' , 'SAGAAL'];
+let numberArray = ['ZERO' , 'KOOW' , 'LABOO' , 'SADEEX' , 'AFAAR' , 'SHAAN' , 'LIIX' , 'TODOBAA' , 'SIDEED' , 'SAGAAL'];
 //Get the HTML Elements
 let inputField = document.querySelector('#number');
 let displayElement = document.querySelector('#text-number');
